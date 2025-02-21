@@ -1,3 +1,3 @@
 # SPC
-![sds](/Control Chart Selection Processblack2.png)
+![sds](/images/ControlChartSelectionProcess2.png)
 
